@@ -1,10 +1,12 @@
 import datetime
 
 LIVEBARN_RINKS = {
-    'San Jose South': 547,
-    'San Jose North': 546,
-    'San Jose East': 548,
-    'San Jose Center': 549,
+    'Sharks Rink': 547,
+    'Orange Rink': 546,
+    'Black Rink': 548,
+    'White Rink': 549,
+    'Gray Rink': 3382,
+    'TechCU Rink': 3661
 }
 LIVEBARN_URL = 'https://livebarn.com/en/videov/?begindate={date}&sid={sid}'
 
